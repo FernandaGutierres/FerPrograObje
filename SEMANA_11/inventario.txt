@@ -1,13 +1,13 @@
 [
     {
         "id_producto": "1",
-        "nombre": "Carne",
+        "nombre": "Ropa",
         "cantidad": 5,
         "precio": 19.0
     },
     {
         "id_producto": "2",
-        "nombre": "Pollo",
+        "nombre": "Toni",
         "cantidad": 2,
         "precio": 10.0
     },
